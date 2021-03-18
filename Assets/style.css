@@ -4,17 +4,17 @@
   
   /* brand color palette */
   :root {
-    --primary: rgb(12, 59, 0);
-    --secondary: rgb(12, 59, 0);
-    --tertiary: rgb(255, 255, 255);
-    --dark: rgb(0, 0, 0);
+    --primary: rgb(233, 1, 1);
+    --secondary: rgb(255, 255, 255);
+    --tertiary: rgb(233, 1, 1);
+    --dark: rgb(233, 1, 1);
     --light: rgb(255, 255, 255);
   }
   
   body {
     margin: 0;
     padding: 0;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: var(--primary);
     background-color: var(--light);
     line-height: 1.5;
@@ -87,8 +87,7 @@
   }
   
   .hero-banner {
-    background: rgb(68, 88, 120);
-    background-image: url("../images/02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+    background: rgb(233, 1, 1);
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -98,7 +97,12 @@
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-    text-align: right;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: solid black;
+    
+    
   }
   
   .hero-banner div {
@@ -129,6 +133,8 @@
     flex-wrap: wrap;
     align-items: stretch;
     justify-content: space-between;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
   }
   
   .page-section > h2 {
@@ -220,23 +226,23 @@
   }
   
   /* portfolio project images */
-  .run-buddy {
-    background-image: url("../images/02-run-buddy.jpg");
+  .Project-one {
+    background-image: url("https://thebsking.github.io/travel-planner/");
   }
   
-  .led-wall {
+  .Weather-App {
     background-image: url("../images/02-portfolio-1.jpg");
   }
   
-  .react-calc {
+  .code-quiz {
     background-image: url("../images/02-portfolio-2.jpg");
   }
   
-  .pastel-puzzles {
+  .Work-Day-Scheduler {
     background-image: url("../images/02-portfolio-3.jpg");
   }
   
-  .surf-report {
+  .Password-Generator {
     background-image: url("../images/02-portfolio-4.jpg");
   }
   
@@ -300,4 +306,29 @@
     height: 300px;
     width: 300px;
     margin: 50px 0px 0px 300px;
+  }
+
+  .Project{
+    height: 300px;
+    width:300px;
+  }
+
+  .Weather{
+    height: 300px;
+    width:300px;
+  }
+
+  .Code{
+    height: 300px;
+    width:300px;
+  }
+
+  .WorkDay{
+    height: 300px;
+    width:300px;
+  }
+
+  .Password{
+    height: 300px;
+    width:300px;
   }
