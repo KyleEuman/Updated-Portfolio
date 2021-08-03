@@ -1,6 +1,9 @@
 # Updated-Portfolio
 In this assignment we had to update our portfolio. I added updated links to some work and my github pages. I also added an updated link to my Linkedin account as well as my resume. 
-![Screenshot (17)](https://user-images.githubusercontent.com/77242632/111680109-3ffb3900-87f8-11eb-9c99-28579b33e940.png)
-![Screenshot (18)](https://user-images.githubusercontent.com/77242632/111680119-42f62980-87f8-11eb-830c-c0a26b14bf3f.png)
-![Screenshot (19)](https://user-images.githubusercontent.com/77242632/111680132-45588380-87f8-11eb-9e42-3d676e374689.png)
-![Screenshot (20)](https://user-images.githubusercontent.com/77242632/111680138-47badd80-87f8-11eb-9053-d97f8be0b81e.png)
+
+https://kyleeuman.github.io/Updated-Portfolio/
+
+![Screenshot (22)](https://user-images.githubusercontent.com/77242632/118372719-f96c5580-b580-11eb-87f5-737b73c6a06a.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/77242632/118372729-0426ea80-b581-11eb-93eb-e120975b6740.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/77242632/118372737-0ab56200-b581-11eb-99fa-5753a244f435.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/77242632/118372748-1a34ab00-b581-11eb-9d92-64f7f2ecadd5.png)
